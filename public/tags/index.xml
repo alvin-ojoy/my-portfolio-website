@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alvin Ojoy</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Alvin Ojoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>alvinojoy@gmail.com (Alvin Ojoy)</managingEditor>
+    <webMaster>alvinojoy@gmail.com (Alvin Ojoy)</webMaster>
+    <copyright>© 2025 Alvin Ojoy</copyright>
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aws</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ci-Cd</title>
+      <link>http://localhost:1313/tags/ci-cd/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/ci-cd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>http://localhost:1313/tags/devops/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/devops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>http://localhost:1313/tags/terraform/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/terraform/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Grafana</title>
+      <link>http://localhost:1313/tags/grafana/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/grafana/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Helm</title>
+      <link>http://localhost:1313/tags/helm/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/helm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:1313/tags/kubernetes/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/kubernetes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prometheus</title>
+      <link>http://localhost:1313/tags/prometheus/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/prometheus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lambda</title>
+      <link>http://localhost:1313/tags/lambda/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/lambda/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>http://localhost:1313/tags/serverless/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
+      <guid>http://localhost:1313/tags/serverless/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
