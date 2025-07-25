@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Helm on Alvin Ojoy</title>
-    <link>http://localhost:1313/tags/helm/</link>
+    <link>http://localhost:50259/tags/helm/</link>
     <description>Recent content in Helm on Alvin Ojoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alvinojoy@gmail.com (Alvin Ojoy)</managingEditor>
     <webMaster>alvinojoy@gmail.com (Alvin Ojoy)</webMaster>
     <copyright>© 2025 Alvin Ojoy</copyright>
-    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/helm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50259/tags/helm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Real-Time Kubernetes Monitoring Stack</title>
-      <link>http://localhost:1313/projects/k8s-monitoring/</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <link>http://localhost:50259/projects/k8s-monitoring/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       <author>alvinojoy@gmail.com (Alvin Ojoy)</author>
-      <guid>http://localhost:1313/projects/k8s-monitoring/</guid>
+      <guid>http://localhost:50259/projects/k8s-monitoring/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50259/projects/k8s-monitoring/featured.png" />
     </item>
     
   </channel>

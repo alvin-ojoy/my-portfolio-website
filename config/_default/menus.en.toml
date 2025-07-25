@@ -18,6 +18,16 @@
 [[main]]
  name = "Portfolio"
  pageRef = "projects"
+ weight = 8
+
+ [[main]]
+ name = "Contact"
+ pageRef = "contact"
+ weight = 9
+
+[[main]]
+ name = "Resume/CV"
+ pageRef = "cv"
  weight = 10
 
 #[[main]]

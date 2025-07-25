@@ -1,8 +1,8 @@
 ---
 title: "Serverless YouTube Channel Analytics Tool"
-date: 2023-09-05
+date: 2024-09-05
 tags: ["devops", "serverless", "aws", "lambda", "python"]
-thumbnail: "/images/projects/youtube-analytics-thumbnail.jpg"
+thumbnail: "blowfish_logo.png"
 github_url: "https://github.com/yourusername/youtube-analytics-lambda"
 ---
 

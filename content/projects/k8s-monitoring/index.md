@@ -1,6 +1,6 @@
 ---
 title: "Real-Time Kubernetes Monitoring Stack"
-date: 2023-10-20
+date: 2024-10-20
 tags: ["devops", "kubernetes", "prometheus", "grafana", "helm"]
 thumbnail: "/images/projects/k8s-monitoring-thumbnail.jpg"
 github_url: "https://github.com/yourusername/k8s-monitoring-stack"

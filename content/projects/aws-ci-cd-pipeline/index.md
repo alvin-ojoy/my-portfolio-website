@@ -2,10 +2,9 @@
 title: "Automated CI/CD Pipeline with AWS & Terraform"
 date: 2024-11-15
 tags: ["devops", "aws", "terraform", "ci-cd"]
-thumbnail: "/images/projects/aws-pipeline-thumbnail.jpg"
+thumbnail: "/img/bg7.jpeg"
 github_url: "https://github.com/yourusername/aws-terraform-cicd"
 ---
-
 ## Overview
 A **serverless CI/CD pipeline** built on AWS (CodePipeline, ECS, Terraform) to deploy a containerized Python app with zero-downtime blue/green deployments.
 
